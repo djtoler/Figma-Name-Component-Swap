@@ -11,7 +11,7 @@ However, with our custom engineered Figma plugin, designers can now easily and q
 This plugin has been specifically designed to address the common problem of manual layer and component management, making it an essential tool for any designer working in Figma. 
 
 With its user-friendly interface and intuitive functionality, this plugin is sure to become a go-to tool for anyone looking to improve their design workflow.
-## ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------------
 Below are the steps to get this plugin running. You can also find instructions at: https://www.figma.com/plugin-docs/setup/
 
 This plugin template uses Typescript and NPM, two standard tools in creating JavaScript applications.
