@@ -4,7 +4,6 @@
   "description": "Your Figma Plugin",
   "main": "plugin-code.js",
   "scripts": {
-    "start": "npm run start",
     "build": "tsc -p tsconfig.json",
     "watch": "npm run build -- --watch"
   },
