@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Layer Rename and Swap</title>
+</head>
+<body>
+  <h2>Rename Layer</h2>
+  <form>
+    <label for="selected-name">Selected Name:</label>
+    <input type="text" id="selected-name" name="selected-name">
+    <br>
+    <label for="target-name">Target Name:</label>
+    <input type="text" id="target-name" name="target-name">
+    <br><br>
+    <input type="button" value="Rename" onclick="renameLayer()">
+  </form>
+  <h2>Swap Layer with Component</h2>
+  <form>
+    <label for="selected-layer">Selected Layer:</label>
+    <input type="text" id="selected-layer" name="selected-layer">
+    <br>
+    <label for="swap-layer">Swap Layer:</label>
+    <input type="text" id="swap-layer" name="swap-layer">
+    <br><br>
+    <input type="button" value="Swap" onclick="swapLayer()">
+  </form>
+</body>
+</html>

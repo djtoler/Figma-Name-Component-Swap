@@ -1,0 +1,67 @@
+<!-- <h2>Rectangle Creator</h2>
+<p>Count: <input id="count" value="5"></p>
+<button id="create">Create</button>
+<button id="cancel">Cancel</button>
+<script>
+
+document.getElementById('create').onclick = () => {
+  const textbox = document.getElementById('count');
+  const count = parseInt(textbox.value, 10);
+  parent.postMessage({ pluginMessage: { type: 'create-rectangles', count } }, '*')
+}
+
+document.getElementById('cancel').onclick = () => {
+  parent.postMessage({ pluginMessage: { type: 'cancel' } }, '*')
+}
+
+</script> -->
+
+<body>
+
+  <h2>Rename Layer</h2>
+
+  <form>
+    <label for="selected-name">Replace This Name:</label>
+    <input type="text" id="selectedNameInputBox" name="selected-name" >
+    <br>
+    <label for="target-name">With This Name:</label>
+    <input type="text" id="targetNameInputBox" name="target-name">
+    <br><br>
+    <input type="button" id="renameLayerButton" value="Rename" onclick="renameLayer()">
+  </form>
+
+  <h2>Swap Layer with Component</h2>
+
+  <form>
+    <label for="inputBoxForLayerToReplace">Replace This Layer:</label>
+    <input type="text" id="inputBoxForLayerToReplace" name="inputBoxForLayerToReplace">
+    <br>
+
+    <label for="inputBoxForReplacementComponent">With This Component:</label>
+    <input type="text" id="inputBoxForReplacementComponent" name="inputBoxForReplacementComponent">
+    <br><br>
+
+    <input type="button" id="swapComponentButton" value="Swap" onclick="swapLayer()">
+  </form>
+
+</body>
+
+<script>
+
+  document.getElementById('renameLayerButton').onclick = () => {
+    const selectedNameInputBox = document.getElementById('selectedNameInputBox');
+    const selectedNameOfLayer = selectedNameInputBox.value;
+    const targetNameInputBox = document.getElementById('targetNameInputBox');
+    const targetNameOfLayer = targetNameInputBox.value;
+    parent.postMessage({ pluginMessage: { type: 'change-name', selectedNameOfLayer, targetNameOfLayer} }, '*')
+  }
+
+  document.getElementById('swapComponentButton').onclick = () => {
+    const layerToReplace = document.getElementById('inputBoxForLayerToReplace');
+    const nameOfLayerToReplace = layerToReplace.value;
+    const replacementComponent = document.getElementById('inputBoxForReplacementComponent');
+    const nameOfReplacementComponent = replacementComponent.value;
+    parent.postMessage({ pluginMessage: { type: 'swap-component', nameOfLayerToReplace, nameOfReplacementComponent} }, '*')
+  }
+  
+</script> 
