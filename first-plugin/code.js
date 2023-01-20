@@ -28,19 +28,6 @@ function runPlugin() {
         figma.closePlugin('No element selected!')
         return
     }
-
-    // function rename(newName) {
-    //     figma.currentPage.selection[0].name = newName;
-    //     console.log(figma.currentPage.selection[0].name);
-    //     return figma.currentPage.selection[0].name
-    // }
-
-
-
-    // rename('newRecName2')
-
-    
-
     figma.closePlugin("Job Done")
     console.log("----------------------------------------------");
     return

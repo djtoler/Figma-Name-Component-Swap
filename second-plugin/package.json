@@ -2,8 +2,9 @@
   "name": "second-plugin",
   "version": "1.0.0",
   "description": "Your Figma Plugin",
-  "main": "code.js",
+  "main": "plugin-code.js",
   "scripts": {
+    "start": "npm run start",
     "build": "tsc -p tsconfig.json",
     "watch": "npm run build -- --watch"
   },
