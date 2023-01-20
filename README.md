@@ -2,7 +2,7 @@
 
 |Change Layer Names | Replace Layer With Component |
 |:-:|:-:|
-|![Change Layer Names](https://linuxbashscripts1.s3.amazonaws.com/finished.PNG) |![Ready to Start Coding](https://github.com/djtoler/Figma-PlugIn/blob/main/figmaswapgifgif.gif)|
+|![Change Layer Names](https://github.com/djtoler/Figma-PlugIn/blob/main/Watch%20Name%20Change%20Here.gif) |![Ready to Start Coding](https://github.com/djtoler/Figma-PlugIn/blob/main/figmaswapgifgif.gif)|
 
 Below are the steps to get this plugin running. You can also find instructions at: https://www.figma.com/plugin-docs/setup/
 
