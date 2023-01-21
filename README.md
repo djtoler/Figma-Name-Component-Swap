@@ -26,7 +26,7 @@ Make sure you have NodeJS, Typescript & Figma Desktop installed locally: ---> ht
 
 ### 1. Clone the directory: ---> 'git clone https://github.com/djtoler/Figma-PlugIn.git'
 
-### 2. Move into the plugin directory to install dependencies: ---> 'cd Name&ComponentSwap/' & npm install
+### 2. Move into the plugin directory to install dependencies: ---> 'cd Name&ComponentSwap' & npm install
 
 ### 3. Run the development version: ---> 'npm start'
 
