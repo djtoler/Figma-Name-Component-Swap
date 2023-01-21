@@ -2,7 +2,7 @@
 
 |Change Layer Names | Replace Layer With Component |
 |:-:|:-:|
-|![Change Layer Names](https://github.com/djtoler/Figma-PlugIn/blob/main/Watch%20Name%20Change%20Here.gif) |![Ready to Start Coding](https://github.com/djtoler/Figma-PlugIn/blob/main/figmaswapgifgif.gif)|
+|![Change Layer Names](https://github.com/djtoler/Figma-PlugIn/blob/main/nameChange.gif) |![Ready to Start Coding](https://github.com/djtoler/Figma-PlugIn/blob/main/figmaSwap.gif)|
 
 ## --------------------------------------------------------------------------
 
