@@ -26,10 +26,10 @@ Make sure you have NodeJS, Typescript & Figma Desktop installed locally: ---> ht
 
 ### 1. Clone the directory: ---> 'git clone https://github.com/djtoler/Figma-PlugIn.git'
 
-### 2. Move into the plugin directory to install dependencies: ---> 'cd Comonent-Swap-Plugin/' & npm install
+### 2. Move into the plugin directory to install dependencies: ---> 'cd Component-Swap-Plugin/' & npm install
 
 ### 3. Run the development version: ---> 'npm start'
 
-### 4. Open a project in Figma Desktop, select Menu > Plugins > Development > New Plugin. Click "import plugin from manifest..." and find the manifest.json file in 'Comonent-Swap-Plugin/' directory
+### 4. Open a project in Figma Desktop, select Menu > Plugins > Development > New Plugin. Click "import plugin from manifest..." and find the manifest.json file in 'Component-Swap-Plugin/' directory
 
-### 5. Now you can run the plugin via Right Click > Plugins > Comonent-Swap-Plugin. You can also press 'CTRL & /' at the same time and this will display the plugin UI.
+### 5. Now you can run the plugin via Right Click > Plugins > Component-Swap-Plugin. You can also press 'CTRL & /' at the same time and this will display the plugin UI.
