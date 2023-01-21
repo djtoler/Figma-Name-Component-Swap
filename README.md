@@ -4,7 +4,7 @@
 | :-------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 | ![Change Layer Names](https://github.com/djtoler/Figma-PlugIn/blob/main/nameChange.gif) | ![Ready to Start Coding](https://github.com/djtoler/Figma-PlugIn/blob/main/figmaSwap.gif) |
 
-## -------------------------------------------------------------------------------------------
+## ------------------------------------------------------------------------------
 
 ### Renaming layers and swapping components within a Figma design can be a tedious and time-consuming task.
 
