@@ -13,9 +13,12 @@ However, with our custom engineered Figma plugin, designers can now easily and q
 This plugin has been specifically designed to address the common problem of manual layer and component management, making it an essential tool for any designer working in Figma.
 
 With its user-friendly interface and intuitive functionality, this plugin is sure to become a go-to tool for anyone looking to improve their design workflow.
+<br>
+## Watch a Demo Here...
 
+[![Watch A Demo Here](https://i9.ytimg.com/vi_webp/OKAde1Rn6Ko/mqdefault.webp?v=63cb784e&sqp=CKzurZ4G&rs=AOn4CLAf3SRT4-yhhvw03yVq1vKdxuQlgQ)](https://www.youtube.com/watch?v=OKAde1Rn6Ko)
 
-## --------------------------------------------------------------------------
+# Clone & Try This Plug-In For Yourself...
 
 Below are the steps to get this plugin running. You can also find instructions at: https://www.figma.com/plugin-docs/setup/
 
@@ -25,12 +28,12 @@ Make sure you have NodeJS, Typescript & Figma Desktop installed locally: ---> ht
 
 ## Directions...
 
-### 1. Clone the directory: ---> 'git clone https://github.com/djtoler/Figma-PlugIn.git'
+#### 1. Clone the directory: ---> 'git clone https://github.com/djtoler/Figma-PlugIn.git'
 
-### 2. Move into the plugin directory to install dependencies: ---> 'cd Name&ComponentSwap' & npm install
+#### 2. Move into the plugin directory to install dependencies: ---> 'cd Name&ComponentSwap' & npm install
 
-### 3. Run the development version: ---> 'npm start'
+#### 3. Run the development version: ---> 'npm start'
 
-### 4. Open a project in Figma Desktop, select Menu > Plugins > Development > New Plugin. Click "import plugin from manifest..." and find the manifest.json file in 'Component-Swap-Plugin/' directory
+#### 4. Open a project in Figma Desktop, select Menu > Plugins > Development > New Plugin. Click "import plugin from manifest..." and find the manifest.json file in 'Component-Swap-Plugin/' directory
 
-### 5. Now you can run the plugin via Right Click > Plugins > Component-Swap-Plugin. You can also press 'CTRL & /' at the same time and this will display the plugin UI.
+#### 5. Now you can run the plugin via Right Click > Plugins > Component-Swap-Plugin. You can also press 'CTRL & /' at the same time and this will display the plugin UI.
