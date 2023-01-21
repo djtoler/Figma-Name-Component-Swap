@@ -14,6 +14,7 @@ This plugin has been specifically designed to address the common problem of manu
 
 With its user-friendly interface and intuitive functionality, this plugin is sure to become a go-to tool for anyone looking to improve their design workflow.
 
+
 ## --------------------------------------------------------------------------
 
 Below are the steps to get this plugin running. You can also find instructions at: https://www.figma.com/plugin-docs/setup/
