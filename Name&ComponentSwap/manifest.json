@@ -1,10 +1,8 @@
 {
-  "name": "second-plugin",
+  "name": "Comonent-Swap-Plugin",
   "id": "1196923395736542982",
   "api": "1.0.0",
   "main": "code.js",
-  "editorType": [
-    "figma"
-  ],
+  "editorType": ["figma"],
   "ui": "ui.html"
 }

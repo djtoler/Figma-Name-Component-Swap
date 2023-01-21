@@ -1,5 +1,5 @@
 {
-  "name": "second-plugin",
+  "name": "Comonent-Swap-Plugin",
   "version": "1.0.0",
   "description": "Your Figma Plugin",
   "main": "plugin-code.js",
