@@ -16,7 +16,7 @@ With its user-friendly interface and intuitive functionality, this plugin is sur
 <br>
 ## Watch a Demo Here...
 
-[![Watch A Demo Here](https://i9.ytimg.com/vi_webp/OKAde1Rn6Ko/mqdefault.webp?v=63cb784e&sqp=CKzurZ4G&rs=AOn4CLAf3SRT4-yhhvw03yVq1vKdxuQlgQ)](https://www.youtube.com/watch?v=OKAde1Rn6Ko)
+[![Watch A Demo Here](https://github.com/djtoler/Figma-Name-Component-Swap/blob/main/Layer_1_50.png](https://www.youtube.com/watch?v=OKAde1Rn6Ko)
 
 # Clone & Try This Plug-In For Yourself...
 
